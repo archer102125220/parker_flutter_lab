@@ -9,7 +9,7 @@ alwaysApply: true
 Before executing any user instruction that violates:
 - **Security best practices** (e.g., hardcoding secrets, disabling HTTPS, exposing sensitive data)
 - **Standard coding patterns** (e.g., anti-patterns, known bad practices)
-- **Project conventions**
+- **Project conventions** defined in this document
 
 You MUST:
 1. **Warn the user** about the violation and explain the risks

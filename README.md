@@ -12,6 +12,13 @@ A Very Good Project created by Very Good CLI.
 
 ---
 
+## Development & AI Rules 🤖
+
+Strict coding standards and AI rules are enforced in this project.
+👉 [**Read the Rules**](docs/development_rules.md)
+
+---
+
 ## Getting Started 🚀
 
 This project contains 3 flavors:

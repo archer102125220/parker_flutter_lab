@@ -25,6 +25,3 @@ If absolutely necessary:
 1. Get explicit human approval FIRST
 2. Show complete script for review
 3. Explain why manual tools can't do it
-
-### Remember
-**Scripts are blind. AI should be intelligent.**
