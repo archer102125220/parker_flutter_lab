@@ -1,3 +1,5 @@
+# make run-android / make run-ios
+
 run-ios:
 	fvm flutter run -d iPhone --flavor production --target lib/main_production.dart
 
